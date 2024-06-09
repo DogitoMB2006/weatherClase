@@ -1,4 +1,3 @@
-// Datos de noticias simulados
 const newsData = [
     { id: 1, title: "Tecnología avanzando rápidamente en 2024", description: "El mundo de la tecnología está viendo cambios rápidos este año con innovaciones significativas en IA.", source: "Tech News", category: "Tecnología" },
     { id: 2, title: "Resultados electorales finales", description: "Los resultados de las elecciones han sido anunciados, marcando un cambio significativo en el liderazgo.", source: "Global News", category: "Política" },
